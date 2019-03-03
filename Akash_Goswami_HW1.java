@@ -1,7 +1,5 @@
 /* Akash Goswami
  * CMSC 455
- * akashg1@umbc.edu
- * Student ID: JI71490
  * HW 1
  * Rocket Science
  */
