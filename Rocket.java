@@ -1,13 +1,11 @@
 /* Akash Goswami
- * CMSC 455
- * HW 1
  * Rocket Science
  */
 
 import java.util.*;
 import java.io.*;
 
-public class Akash_Goswami_HW1 {
+public class Rocket {
 
 	public static void main(String[] args) throws IOException {
 		// TODO Auto-generated method stub
